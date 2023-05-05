@@ -3,3 +3,4 @@
 - Each RAM/register digit size is 12 bits
 - Each instruction is form 1-3 words (12 bits each)
 - 
+- This is a change in the readme file.
