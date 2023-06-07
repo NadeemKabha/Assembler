@@ -1,6 +1,6 @@
 # Assembler
-- RAM size is 1024 (0-1023)
-- Each RAM/register digit size is 12 bits
+- RAM size is 1024 (0-1023) cells
+- Each RAM/register cell size is 12 bits
 - Each instruction is from 1-3 words (12 bits each)
 - Instructions Opcodes:
  ___________________________
